@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hoyeo",
+      "designation": "Front End Developer",
+      "email": "rohitsangale2015@gmail.com",
+      "mobile": "7066841239",
+      "salary": "90000",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Komal Dhole",
+      "designation": "Designer",
+      "email": "komaldhole98@gmail.com",
+      "mobile": "1234567890",
+      "salary": "90000",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Vijay",
+      "designation": "Developer",
+      "email": "vijay1234@gmail.com",
+      "mobile": "4567543355",
+      "salary": "98000",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Harikrishna",
+      "designation": "Manager",
+      "email": "harikrishna@gmail.com",
+      "mobile": "8799672341",
+      "salary": "89000",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Nidhi Agrawal",
+      "designation": "Test Engineer",
+      "email": "nidhiagrawal45@gmail.com",
+      "mobile": "8977652345",
+      "salary": "78099",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "uqhjnb",
+      "designation": "developer",
+      "email": "itdywydg@gmail.com",
+      "mobile": "456793450",
+      "salary": "78000",
+      "gender": "Male"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
